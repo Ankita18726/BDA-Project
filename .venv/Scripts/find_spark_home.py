@@ -1,4 +1,4 @@
-#!C:\Users\Milind\Documents\GitHub\spotify-bda\.venv\Scripts\python.exe
+#!C:\Users\Milind\Documents\GitHub\BDA Project\.venv\Scripts\python.exe
 
 #
 # Licensed to the Apache Software Foundation (ASF) under one or more

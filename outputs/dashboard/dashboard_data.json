@@ -1,0 +1,288 @@
+{
+  "generatedAt": "2026-10-05T09:35:03.235038+00:00",
+  "dataset": {
+    "cleanedRows": 113263,
+    "uniqueTracks": 89463,
+    "genreDuplicateRows": 23800,
+    "genreCount": 114
+  },
+  "popularityDistribution": [
+    {
+      "category": "Low",
+      "count": 53351
+    },
+    {
+      "category": "Medium",
+      "count": 32989
+    },
+    {
+      "category": "High",
+      "count": 3123
+    }
+  ],
+  "genres": [
+    {
+      "name": "pop-film",
+      "tracks": 997,
+      "avgPopularity": 59.28
+    },
+    {
+      "name": "k-pop",
+      "tracks": 998,
+      "avgPopularity": 56.96
+    },
+    {
+      "name": "chill",
+      "tracks": 999,
+      "avgPopularity": 53.7
+    },
+    {
+      "name": "sad",
+      "tracks": 1000,
+      "avgPopularity": 52.38
+    },
+    {
+      "name": "grunge",
+      "tracks": 999,
+      "avgPopularity": 49.58
+    },
+    {
+      "name": "indian",
+      "tracks": 999,
+      "avgPopularity": 49.53
+    },
+    {
+      "name": "anime",
+      "tracks": 999,
+      "avgPopularity": 48.77
+    },
+    {
+      "name": "emo",
+      "tracks": 1000,
+      "avgPopularity": 48.13
+    },
+    {
+      "name": "pop",
+      "tracks": 993,
+      "avgPopularity": 47.9
+    },
+    {
+      "name": "sertanejo",
+      "tracks": 1000,
+      "avgPopularity": 47.87
+    },
+    {
+      "name": "progressive-house",
+      "tracks": 999,
+      "avgPopularity": 46.66
+    },
+    {
+      "name": "piano",
+      "tracks": 998,
+      "avgPopularity": 45.28
+    }
+  ],
+  "artists": [
+    {
+      "name": "Olivia Rodrigo",
+      "tracks": 5,
+      "avgPopularity": 87.4
+    },
+    {
+      "name": "One Direction",
+      "tracks": 5,
+      "avgPopularity": 83.0
+    },
+    {
+      "name": "Lil Nas X",
+      "tracks": 8,
+      "avgPopularity": 82.75
+    },
+    {
+      "name": "Måneskin",
+      "tracks": 5,
+      "avgPopularity": 82.6
+    },
+    {
+      "name": "Mora",
+      "tracks": 6,
+      "avgPopularity": 80.33
+    },
+    {
+      "name": "Mitski",
+      "tracks": 6,
+      "avgPopularity": 78.33
+    },
+    {
+      "name": "Shubh",
+      "tracks": 5,
+      "avgPopularity": 77.8
+    },
+    {
+      "name": "Frank Ocean",
+      "tracks": 21,
+      "avgPopularity": 74.14
+    },
+    {
+      "name": "Limp Bizkit",
+      "tracks": 6,
+      "avgPopularity": 73.83
+    },
+    {
+      "name": "Rvfv",
+      "tracks": 6,
+      "avgPopularity": 73.83
+    }
+  ],
+  "topTracks": [
+    {
+      "id": "3nqQXoyQOWXiESFLlDF1hG",
+      "name": "Unholy (feat. Kim Petras)",
+      "artists": "Sam Smith;Kim Petras",
+      "popularity": 100.0
+    },
+    {
+      "id": "2tTmW7RDtMQtBk7m2rYeSw",
+      "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+      "artists": "Bizarrap;Quevedo",
+      "popularity": 99.0
+    },
+    {
+      "id": "4uUG5RXrOk84mYEfFvj3cK",
+      "name": "I'm Good (Blue)",
+      "artists": "David Guetta;Bebe Rexha",
+      "popularity": 98.0
+    },
+    {
+      "id": "5ww2BF9slyYgNOk37BlC4u",
+      "name": "La Bachata",
+      "artists": "Manuel Turizo",
+      "popularity": 98.0
+    },
+    {
+      "id": "6Sq7ltF9Qa7SNFBsV5Cogx",
+      "name": "Me Porto Bonito",
+      "artists": "Bad Bunny;Chencho Corleone",
+      "popularity": 97.0
+    },
+    {
+      "id": "1IHWl5LamUGEuP4ozKQSXZ",
+      "name": "Tití Me Preguntó",
+      "artists": "Bad Bunny",
+      "popularity": 97.0
+    },
+    {
+      "id": "5Eax0qFko2dh7Rl2lYs3bx",
+      "name": "Efecto",
+      "artists": "Bad Bunny",
+      "popularity": 96.0
+    },
+    {
+      "id": "4h9wh7iOZ0GGn8QVp4RAOB",
+      "name": "I Ain't Worried",
+      "artists": "OneRepublic",
+      "popularity": 96.0
+    },
+    {
+      "id": "5IgjP7X4th6nMNDh4akUHb",
+      "name": "Under The Influence",
+      "artists": "Chris Brown",
+      "popularity": 96.0
+    },
+    {
+      "id": "4LRPiXqCikLlN15c3yImP7",
+      "name": "As It Was",
+      "artists": "Harry Styles",
+      "popularity": 95.0
+    }
+  ],
+  "histogram": [
+    {
+      "range": "0-9",
+      "count": 13821
+    },
+    {
+      "range": "10-19",
+      "count": 9158
+    },
+    {
+      "range": "20-29",
+      "count": 17372
+    },
+    {
+      "range": "30-39",
+      "count": 13000
+    },
+    {
+      "range": "40-49",
+      "count": 14926
+    },
+    {
+      "range": "50-59",
+      "count": 11388
+    },
+    {
+      "range": "60-69",
+      "count": 6675
+    },
+    {
+      "range": "70-79",
+      "count": 2497
+    },
+    {
+      "range": "80-89",
+      "count": 584
+    },
+    {
+      "range": "90-99",
+      "count": 42
+    }
+  ],
+  "correlations": [
+    {
+      "feature": "instrumentalness",
+      "value": -0.1281
+    },
+    {
+      "feature": "loudness",
+      "value": 0.0712
+    },
+    {
+      "feature": "danceability",
+      "value": 0.065
+    },
+    {
+      "feature": "speechiness",
+      "value": -0.0469
+    },
+    {
+      "feature": "acousticness",
+      "value": -0.0374
+    },
+    {
+      "feature": "duration_minutes",
+      "value": -0.0234
+    },
+    {
+      "feature": "liveness",
+      "value": -0.0145
+    },
+    {
+      "feature": "energy",
+      "value": 0.0127
+    },
+    {
+      "feature": "valence",
+      "value": -0.0116
+    },
+    {
+      "feature": "tempo",
+      "value": 0.0083
+    }
+  ],
+  "methodology": {
+    "genreAnalysis": "Cleaned genre-assignment rows",
+    "trackAnalysis": "Unique Spotify track IDs",
+    "modelResults": "Loaded separately from outputs/results/model_comparison.csv"
+  }
+}

@@ -1,4 +1,5 @@
 import os
+from src.dashboard_export import export_dashboard_data
 from src.output_verification import (
     verify_project_outputs
 )
@@ -28,7 +29,8 @@ from src.visualization import (
 
 from src.ml_models import (
     train_models,
-    save_model_results
+    save_model_results,
+    
 )
 
 
@@ -247,7 +249,7 @@ def main():
         ml_results
     )
     outputs_ok = verify_project_outputs()
-
+    export_dashboard_data(cleaned_df)
     print(
     "\n" + "=" * 70
 )
